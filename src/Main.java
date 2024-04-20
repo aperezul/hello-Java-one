@@ -24,7 +24,7 @@ public class Main {
             System.out.println("Waaay to overpriced");
         }
 
-        String teaOrigins = "JaPan     "; //we use trim to trim information so mistakes can be fixed.
+        String teaOrigins = "Japan     "; //we use trim to trim information so mistakes can be fixed.
         if (teaOrigins.trim().equalsIgnoreCase("Japan")) {
             System.out.println("Wow, I love green tea from Japan");
         }
